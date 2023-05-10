@@ -25,6 +25,11 @@ Shortest path algorithms - Optimal Wiring Layout using Prim's and Kruskal's Mini
 
 Tractable and Intractable Problems - Computability of Algorithms - Computability classes - P, NP, NP-Complete and NP-hard 
 
+## LICENCE 
+
+This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+
+
 <hr/>
 
 ## Contact
