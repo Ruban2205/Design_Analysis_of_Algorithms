@@ -1,5 +1,18 @@
 # Design and Analysis of Angorithm
 
+## Topics 
+
+- [Knapsack Problem](/01_KnapSack_problem.py)
+- [Job Sequencing problem](02_Job_Sequencing.py)
+- [0-1 Knapsack problem](03_0~1-Knapsack_problem.py)
+- [Longest Common Subsequence problem](04_Longest_Common_Subsequence.py)
+- [Travelling Salesman problem](05_Travelling_Salesman.py)
+- [Dijkstra's shortest path Algorithm](06_Dijstra_shortest_path.py)
+- [Prims Minimum Spanning Tree problem](07_Prims_Minimum_Spanning_Tree.py)
+- [Floyd's algorithm](08_Floyd's_algorithm.py)
+- [N-Queens Problem](09_n_queens_problem.py)
+- [Kruskal's Minimum Spanning Tree Algorithm](10_Kruskal_MST.py)
+
 ### Module 1: Introduction and Performace Analysis
 
 Introduction: Performance analysis - Asymptotic Notations & Basic Efficiency Classes - Asymptotic analysis of complexity bounds - best, average and worst-case behavior - Analysis of recursive algorithms through recurrence relations: Substitution method - Recursion tree method and Masters' theorem. 
