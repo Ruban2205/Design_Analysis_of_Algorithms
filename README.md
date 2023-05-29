@@ -61,9 +61,29 @@ cd Design_Analysis_of_Algorithms/AlgorithmX
 3. Review the provided documentation and study the source code to gain a comprehensive understanding of the algorithm.
 4. Implement or adapt the algorithm into your own projects, making any necessary modifications to suit your specific requirements.
 
-## LICENCE 
+## 🤝 Contributing
 
-This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+Contributions to this repository are greatly appreciated. If you would like to contribute, please follow these guidelines:
+
+1) Fork the repository.
+
+2) Create a new branch for your contribution.
+
+3) Make your changes, ensuring adherence to the established coding style and documentation conventions.
+
+4) Test your changes to ensure they do not introduce any regressions or issues.
+
+5) Commit and push your changes to your forked repository.
+
+6) Submit a pull request, clearly describing the purpose and scope of your contribution.
+
+7) Your contribution will be reviewed, and any necessary feedback will be provided.
+
+By contributing to this repository, you help foster a collaborative and educational environment for individuals seeking to improve their algorithmic knowledge.
+
+## 📝 License 
+
+This repository is licensed under the [MIT LICENCE](/LICENCE). You are free to use, modify, and distribute the code included here for personal and commercial purposes. However, please ensure that you provide appropriate attribution to the original authors and retain
 
 
 <hr/>
