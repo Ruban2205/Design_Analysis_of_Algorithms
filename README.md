@@ -41,6 +41,25 @@ The N-Queens problem involves placing N queens on an N×N chessboard in such a w
 10) [Kruskal's Minimum Spanning Tree Algorithm](10_Kruskal_MST.py):
 Kruskal's algorithm is a popular algorithm used to find the minimum spanning tree of a connected weighted graph. It operates by sorting the edges based on their weights and gradually adding the edges with the minimum weight while avoiding cycles. The resulting tree has the minimum total weight among all possible spanning trees.
 
+Each algorithm is carefully crafted to solve specific problems or address common challenges encountered in programming and computer science. The implementations are thoroughly tested and optimized for efficiency.
+
+
+## 🚀 Usage
+
+To utilize these algorithms, follow these steps:
+
+1. Clone the repository using the following command:
+```
+git clone https://github.com/Ruban2205/Design_Analysis_of_Algorithms.git
+```
+
+2. Navigate to the desired algorithm's directory:
+```
+cd Design_Analysis_of_Algorithms/AlgorithmX
+```
+
+3. Review the provided documentation and study the source code to gain a comprehensive understanding of the algorithm.
+4. Implement or adapt the algorithm into your own projects, making any necessary modifications to suit your specific requirements.
 
 ## LICENCE 
 
