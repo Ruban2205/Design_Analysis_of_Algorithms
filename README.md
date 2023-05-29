@@ -7,19 +7,39 @@ This repository serves as a valuable resource for individuals interested in expl
 Each algorithm has been thoughtfully implemented and documented, following best practices and adhering to established programming conventions. The code is written in a clear and understandable manner, with comprehensive comments to aid in comprehension and usage.
 
 
-## Topics 
+## 🧩 Algorithms Included 
 
-- [Knapsack Problem](/01_KnapSack_problem.py)
-- [Job Sequencing problem](02_Job_Sequencing.py)
-- [0-1 Knapsack problem](03_0~1-Knapsack_problem.py)
-- [Longest Common Subsequence problem](04_Longest_Common_Subsequence.py)
-- [Travelling Salesman problem](05_Travelling_Salesman.py)
-- [Dijkstra's shortest path Algorithm](06_Dijstra_shortest_path.py)
-- [Prims Minimum Spanning Tree problem](07_Prims_Minimum_Spanning_Tree.py)
-- [Floyd's algorithm](08_Floyd's_algorithm.py)
-- [N-Queens Problem](09_n_queens_problem.py)
-- [Kruskal's Minimum Spanning Tree Algorithm](10_Kruskal_MST.py)
+This repository currently contains the following algorithms:
 
+1) [Knapsack Problem](/01_KnapSack_problem.py):
+The knapsack problem involves selecting a combination of items with specific values and weights to maximize the total value while respecting a weight constraint. It is a classic optimization problem often encountered in resource allocation scenarios.
+
+2) [Job Sequencing Problem](02_Job_Sequencing.py):
+The job sequencing problem focuses on scheduling a set of jobs with associated deadlines and profits to maximize the total profit. The objective is to assign jobs in such a way that their deadlines are met and the overall profit is optimized.
+
+3) [0-1 Knapsack Problem](03_0~1-Knapsack_problem.py):
+The 0-1 knapsack problem is a variation of the knapsack problem where items cannot be divided. Each item can either be included in the knapsack or excluded, and the goal is to find the combination that maximizes the total value while not exceeding the weight constraint.
+ 
+4) [Longest Common Subsequence problem](04_Longest_Common_Subsequence.py):
+The longest common subsequence problem involves finding the longest subsequence that appears in two or more sequences. A subsequence is a sequence of elements that appear in the same relative order but may not be contiguous. This problem has applications in areas like genetics, data comparison, and text analysis. 
+ 
+5) [Travelling Salesman Problem](05_Travelling_Salesman.py):
+The travelling salesman problem is an optimization problem where the objective is to find the shortest possible route that visits a given set of cities and returns to the starting city, visiting each city exactly once. It is a well-known NP-hard problem with numerous practical applications, including logistics, transportation, and network optimization.
+
+6) [Dijkstra's Shortest Path Algorithm](06_Dijstra_shortest_path.py):
+Dijkstra's algorithm is a popular algorithm used to find the shortest path between nodes in a graph with non-negative edge weights. It calculates the shortest path from a single source node to all other nodes in the graph, providing the minimum distance and the corresponding path for each destination node.
+
+7) [Prim's Minimum Spanning Tree Problem](07_Prims_Minimum_Spanning_Tree.py):
+Prim's algorithm is an efficient algorithm used to find the minimum spanning tree of a connected weighted graph. It starts with a single vertex and gradually adds the minimum weight edges that connect the existing tree to a new vertex until all vertices are included. The resulting tree has the minimum total weight among all possible spanning trees.
+
+8) [Floyd's Algorithm](08_Floyd's_algorithm.py):
+Floyd's algorithm, also known as the Floyd-Warshall algorithm, is used to find the shortest paths between all pairs of vertices in a weighted directed graph. It efficiently handles both positive and negative edge weights, allowing for the identification of the shortest distances and paths between all pairs of nodes.
+
+9) [N-Queens Problem](09_n_queens_problem.py):
+The N-Queens problem involves placing N queens on an N×N chessboard in such a way that no two queens threaten each other. It is a classic puzzle that tests problem-solving skills and is often used to illustrate backtracking algorithms.
+
+10) [Kruskal's Minimum Spanning Tree Algorithm](10_Kruskal_MST.py):
+Kruskal's algorithm is a popular algorithm used to find the minimum spanning tree of a connected weighted graph. It operates by sorting the edges based on their weights and gradually adding the edges with the minimum weight while avoiding cycles. The resulting tree has the minimum total weight among all possible spanning trees.
 
 
 ## LICENCE 
