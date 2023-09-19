@@ -83,7 +83,7 @@ By contributing to this repository, you help foster a collaborative and educatio
 
 ## 📝 License 
 
-This repository is licensed under the [MIT LICENCE](/LICENCE). You are free to use, modify, and distribute the code included here for personal and commercial purposes. However, please ensure that you provide appropriate attribution to the original authors and retain
+This repository is licensed under the [MIT LICENSE](/LICENSE). You are free to use, modify, and distribute the code included here for personal and commercial purposes. However, please ensure that you provide appropriate attribution to the original authors and retain
 
 
 ## Contact ☎️
